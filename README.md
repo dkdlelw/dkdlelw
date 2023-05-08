@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&fontSize=90)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=100&section=header&fontSize=90)<br>
 <h1>dkdlelw github!</h1>
 🤸‍♀️: 프로그래밍 & 마크업 언어
 <div>
